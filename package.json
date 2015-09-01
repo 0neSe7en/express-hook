@@ -1,0 +1,32 @@
+{
+  "name": "express-hook",
+  "version": "0.0.1",
+  "description": "a hook before or after response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0neSe7en/express-hook.git"
+  },
+  "keywords": [
+    "hook",
+    "middleware",
+    "express",
+    "plugin"
+  ],
+  "author": "0neSe7en",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0neSe7en/express-hook/issues"
+  },
+  "homepage": "https://github.com/0neSe7en/express-hook#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
